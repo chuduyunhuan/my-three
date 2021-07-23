@@ -1,0 +1,5 @@
+# .prettierrc or .prettierrc.yaml
+
+singleQuote: true
+tabWidth: 2
+arrowParens: 'avoid'
